@@ -1,0 +1,10 @@
+.btn-blue {
+background-color:#d897ff;
+padding: 16px 20px;
+border-radius: 4px;
+color: black;
+font-weight: bold;
+font-family:'Poppins', sans-serif;
+display: inline-block;
+transition: all 0.3s ease;
+}
